@@ -1,6 +1,8 @@
 # HR Dataset Visualization
 <img width="675" height="380" alt="Image" src="https://github.com/user-attachments/assets/4f41cffb-526d-44ab-a6c2-821aab5ed73f" />
 
+# Sales Report Visualization
+
 # Uber Report Visualization
 <img width="1172" height="655" alt="Image" src="https://github.com/user-attachments/assets/4afcfa1f-f669-4e78-b095-8c1ebf5cd22b" />
 <img width="1130" height="635" alt="Image" src="https://github.com/user-attachments/assets/806901bd-2489-4d11-b054-b8cce789bfca" />
